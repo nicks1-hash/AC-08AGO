@@ -61,4 +61,27 @@
         <circle cx="230" cy="185" r="7" fill="#777777" />
         //brillo der.
         <circle cx="225" cy="155" r="5" fill="#FFFFFF" />
+
+    //plumas del pecho
+        //central
+        <ellipse cx="190" cy="255" rx="13" ry="9" fill="#89E219" />
+        <rect x="175" y="243" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="180" cy="255" r="3" fill="#89E219" />
+        <circle cx="200" cy="255" r="3" fill="#89E219" />
+        <rect x="180" y="252" width="20" height="6" fill="#89E219" />
+        
+        //derecha
+        <ellipse cx="220" cy="235" rx="13" ry="9" fill="#89E219" />
+        <rect x="205" y="223" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="210" cy="235" r="3" fill="#89E219" />
+        <circle cx="230" cy="235" r="3" fill="#89E219" />
+        <rect x="210" y="232" width="20" height="6" fill="#89E219" />
+
+        //izquierda
+        <ellipse cx="160" cy="235" rx="13" ry="9" fill="#89E219" />
+        <rect x="145" y="223" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="150" cy="235" r="3" fill="#89E219" />
+        <circle cx="170" cy="235" r="3" fill="#89E219" />
+        <rect x="150" y="232" width="20" height="6" fill="#89E219" />
+
 </svg>  
