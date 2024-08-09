@@ -1,0 +1,96 @@
+<svg width="1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+    //cuerpo
+   <circle cx="190" cy="220" r="80" fill="#58CC02" />
+   <rect x="110" y="110" width="160" height="110" fill="#58CC02" />
+   <rect x="140" y="90" width="100" height="20" fill="#58CC02" />
+   <circle cx="140" cy="110" r="30" fill="#58CC02" />
+   <circle cx="240" cy="110" r="30" fill="#58CC02" />
+   <circle cx="190" cy="61" r="40" fill="#FFFFFF" />
+
+    //mascara
+    <rect x="130" y="150" width="40" height="40" fill="#89E219" />
+    <rect x="210" y="150" width="40" height="40" fill="#89E219" />
+    <circle cx="230" cy="150" r="20" fill="#89E219" />
+        <ellipse cx="240" cy="170" rx="15" ry="35" fill="#89E219" />
+    <circle cx="230" cy="190" r="20" fill="#89E219" />
+    <circle cx="150" cy="150" r="20" fill="#89E219" />
+        <ellipse cx="140" cy="170" rx="15" ry="35" fill="#89E219" />
+    <circle cx="150" cy="190" r="20" fill="#89E219" />
+    <rect x="160" y="140" width="60" height="60" fill="#89E219" />
+    <circle cx="190" cy="210" r="25" fill="#58CC02" />
+    <circle cx="190" cy="124" r="25" fill="#58CC02" />
+        //plumas triagulares
+            //izquierdas
+            <polygon points="180,160 145,130 145,110" fill="#89E219"/>
+            <polygon points="180,160 155,125 155,100" fill="#89E219"/>
+            <ellipse cx="144" cy="130" rx="5" ry="20" fill="#89E219" />
+            <ellipse cx="154" cy="120" rx="5" ry="20" fill="#89E219" />
+
+            //derechas
+            <polygon points="195,175 235,130 235,110" fill="#89E219"/>
+            <polygon points="195,175 225,135 225,100" fill="#89E219"/>
+            <ellipse cx="236" cy="130" rx="5" ry="20" fill="#89E219" />
+            <ellipse cx="226" cy="120" rx="5" ry="20" fill="#89E219" />
+        
+ 
+    //circulo blanco que tapa lo verde sobre las plumas
+    <circle cx="190" cy="61" r="40" fill="#FFFFFF" />
+
+    //pico
+    <ellipse cx="190" cy="195" rx="15" ry="15" fill="#F49000" />
+    <ellipse cx="190" cy="185" rx="20" ry="13" fill="#FFC200" />
+        //brillo del pico
+        <circle cx="185" cy="180" r="3" fill="#FFDE00" />
+        <ellipse cx="190" cy="179" rx="7" ry="3" fill="#FFDE00" />
+        <circle cx="195" cy="180" r="3" fill="#FFDE00" />
+        <ellipse cx="190" cy="183" rx="3" ry="2" fill="#FFC200" />
+
+    //ojo mi izq.
+    <circle cx="150" cy="155" r="13" fill="#FFFFFF" />
+    <circle cx="150" cy="185" r="13" fill="#FFFFFF" />
+    <ellipse cx="156" cy="170" rx="10" ry="25" fill="#FFFFFF"/>
+    <ellipse cx="144" cy="170" rx="10" ry="25" fill="#FFFFFF"/>
+        //pupila izq.
+        <ellipse cx="147" cy="170" rx="7" ry="20" fill="#777777"/>
+        <ellipse cx="153" cy="170" rx="7" ry="20" fill="#777777"/>
+        <circle cx="150" cy="155" r="7" fill="#777777" />
+        <circle cx="150" cy="185" r="7" fill="#777777" />
+        //brillo izq.
+        <circle cx="145" cy="155" r="5" fill="#FFFFFF" />
+
+    //ojo mi der.
+    <circle cx="230" cy="155" r="13" fill="#FFFFFF" />
+    <circle cx="230" cy="185" r="13" fill="#FFFFFF" />
+    <ellipse cx="236" cy="170" rx="10" ry="25" fill="#FFFFFF"/>
+    <ellipse cx="224" cy="170" rx="10" ry="25" fill="#FFFFFF"/>
+        //pupila der.
+        <ellipse cx="227" cy="170" rx="7" ry="20" fill="#777777"/>
+        <ellipse cx="233" cy="170" rx="7" ry="20" fill="#777777"/>
+        <circle cx="230" cy="155" r="7" fill="#777777" />
+        <circle cx="230" cy="185" r="7" fill="#777777" />
+        //brillo der.
+        <circle cx="225" cy="155" r="5" fill="#FFFFFF" />
+
+    //plumas del pecho
+        //central
+        <ellipse cx="190" cy="255" rx="13" ry="9" fill="#89E219" />
+        <rect x="175" y="243" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="180" cy="255" r="3" fill="#89E219" />
+        <circle cx="200" cy="255" r="3" fill="#89E219" />
+        <rect x="180" y="252" width="20" height="6" fill="#89E219" />
+        
+        //derecha
+        <ellipse cx="220" cy="235" rx="13" ry="9" fill="#89E219" />
+        <rect x="205" y="223" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="210" cy="235" r="3" fill="#89E219" />
+        <circle cx="230" cy="235" r="3" fill="#89E219" />
+        <rect x="210" y="232" width="20" height="6" fill="#89E219" />
+
+        //izquierda
+        <ellipse cx="160" cy="235" rx="13" ry="9" fill="#89E219" />
+        <rect x="145" y="223" width="30" height="12" fill="#58CC02" />//bloque verde oscuro
+        <circle cx="150" cy="235" r="3" fill="#89E219" />
+        <circle cx="170" cy="235" r="3" fill="#89E219" />
+        <rect x="150" y="232" width="20" height="6" fill="#89E219" />
+
+</svg>  
