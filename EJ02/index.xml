@@ -46,6 +46,8 @@
         <ellipse cx="153" cy="170" rx="7" ry="20" fill="#777777"/>
         <circle cx="150" cy="155" r="7" fill="#777777" />
         <circle cx="150" cy="185" r="7" fill="#777777" />
+        //brillo izq.
+        <circle cx="145" cy="155" r="5" fill="#FFFFFF" />
 
     //ojo mi der.
     <circle cx="230" cy="155" r="13" fill="#FFFFFF" />
@@ -57,4 +59,6 @@
         <ellipse cx="233" cy="170" rx="7" ry="20" fill="#777777"/>
         <circle cx="230" cy="155" r="7" fill="#777777" />
         <circle cx="230" cy="185" r="7" fill="#777777" />
+        //brillo der.
+        <circle cx="225" cy="155" r="5" fill="#FFFFFF" />
 </svg>  
